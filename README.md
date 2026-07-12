@@ -209,18 +209,22 @@ const zakariya = {
 <tr>
 <td width="50%" valign="top">
 
-### > 💼 FreelanceFlow
-> <!-- Replace with a one-line description of your project -->
-A beginner-friendly freelancer management application for organizing clients, projects, tasks, invoices, and payments.
-FreelanceFlow is a React single-page application designed to demonstrate CRUD operations, Redux state management, protected routes, role-based access, form validation, URL-based filtering, and JSON Server integration.
+### 💼 FreelanceFlow
+> A beginner-friendly React application for managing clients, projects, tasks, invoices, and payments.
+
+Currently in development as a student portfolio project demonstrating CRUD operations, Redux state management, protected routes, role-based access, form validation, URL-based filtering, and JSON Server integration.
+
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JSON Server](https://img.shields.io/badge/-JSON_Server-000000?style=flat-square&logo=json&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_LIVE_DEMO_URL)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammedZak/YOUR_REPO_NAME)
+![Status](https://img.shields.io/badge/Status-In_Development-F59E0B?style=for-the-badge)
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammedZak/freelance-flow)
 
 </td>
 <td width="50%" valign="top">
