@@ -209,10 +209,10 @@ const zakariya = {
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Project Name One
+### > 💼 FreelanceFlow
 > <!-- Replace with a one-line description of your project -->
-A full-stack e-commerce platform with real-time inventory management and secure payment integration.
-
+A beginner-friendly freelancer management application for organizing clients, projects, tasks, invoices, and payments.
+FreelanceFlow is a React single-page application designed to demonstrate CRUD operations, Redux state management, protected routes, role-based access, form validation, URL-based filtering, and JSON Server integration.
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
